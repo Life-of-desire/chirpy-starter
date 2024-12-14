@@ -1,3 +1,11 @@
+---
+title: hello world
+date: 2023-10-10 21:00:00 +0800
+categories: []
+tags: []
+pin: false
+---
+
 ## 安装Cloudflared
 
 可到官网下载相对应的版本
