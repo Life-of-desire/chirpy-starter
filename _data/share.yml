@@ -1,10 +1,10 @@
 #  Sharing options at the bottom of the post.
 #  Icons from <https://fontawesome.com/>
 
-platforms:
-  - type: Telegram
-    icon: "fab fa-telegram"
-    link: "https://t.me/wacctv4"
+#platforms:
+#  - type: Telegram
+#   icon: "fab fa-telegram"
+#    link: "https://t.me/wacctv4"
 
   # Uncomment below if you need to.
   #
