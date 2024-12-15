@@ -11,7 +11,7 @@ pin: false
 可到官网下载相对应的版本
 [地址](https://github.com/cloudflare/cloudflared)
 
-![image-20241215013458658](C:\Users\ll\OneDrive - Goldheed invest\chirpy-starter\_Image\image-20241215013458658.png)
+![image-20241215015223573](./../_Image/image-20241215015223573-1734256352885-4.png)
 
 ## 登陆Cloudflared
 
