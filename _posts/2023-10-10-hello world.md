@@ -11,9 +11,9 @@ pin: false
 可到官网下载相对应的版本
 [地址](https://github.com/cloudflare/cloudflared)
 
+![image-20241215020337568](../_Image/image-20241215020337568-1734257020729-6.png)
 
-
-## ![image-20241215015622401](image-20241215015622401.png)登陆Cloudflared
+## 登陆Cloudflared
 
 ```bash
 chmod +x cloudflared-linux-amd64
