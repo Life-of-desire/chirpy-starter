@@ -76,7 +76,7 @@ Created tunnel webserver-1 with id 12345-123-123-123-12345
 12345-123-123-123-12345.cfargotunnel.com（记录的UID）
 ```
 
-![image-20241121153539515](C:\Users\ll\AppData\Roaming\Typora\typora-user-images\image-20241121153539515.png)
+
 
 ## 配置Cloudflared
 
