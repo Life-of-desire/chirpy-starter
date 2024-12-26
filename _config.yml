@@ -93,7 +93,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://999120.xyz/d/chirpy-starter/_Image/avatar.jpg?sign=ZdUrDS3cDsaJFlNezGbbYqOViN-beZ-78KjsBbFC6a0=:0
+avatar: https://999120.xyz/d/chirpy-starter/_Image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241225023856.jpg?sign=egM-sZPqSpc59q6p_pdkmmEaZJ4sLJfKAwnkwqIDVD8=:0
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
